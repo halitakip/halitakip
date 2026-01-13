@@ -1,16 +1,52 @@
-## Hi there 👋
+# Halı Takip Programı – PetraPOS
 
-<!--
-**halitakip/halitakip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PetraPOS Halı Takip Programı**, halı yıkama işletmeleri için geliştirilmiş
+modern bir **halı yıkama takip uygulamasıdır**.  
+Sipariş takibi, müşteri yönetimi, teslimat süreçleri ve finansal raporlamayı
+tek bir mobil panel üzerinden yönetmenizi sağlar.
 
-Here are some ideas to get you started:
+👉 **Resmi Website:** https://petrapos.com  
+👉 **iOS Uygulaması (App Store):** https://apps.apple.com/tr/app/petrapos/id6744338657  
+👉 **Android Uygulaması (Google Play):** https://play.google.com/store/apps/details?id=com.innodra.petrapos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📱 Halı Yıkama Takip Uygulaması Özellikleri
+
+- 📦 **Sipariş Takibi** – Halı yıkama sürecinin her aşamasını anlık takip
+- 👥 **Müşteri Yönetimi** – Müşteri bilgileri, geçmiş siparişler ve iletişim
+- 💰 **Finansal Takip** – Gelir / gider takibi ve raporlama
+- 🖨️ **Yazıcı Entegrasyonu** – Fiş ve etiket yazdırma
+- 🚚 **Araç & Teslimat Yönetimi**
+- 🔐 **Yetkilendirme Sistemi** – Çalışan bazlı erişim kontrolü
+- 🏢 **Çoklu Şube / İşletme Desteği**
+
+---
+
+## 🌐 Neden PetraPOS?
+
+**PetraPOS**, halı yıkama işletmelerinin dijital dönüşümü için tasarlanmış
+ölçeklenebilir bir çözümdür.  
+Kağıt işlerini ortadan kaldırır, operasyonel verimliliği artırır ve
+müşteri memnuniyetini yükseltir.
+
+📌 Daha fazla bilgi için resmi siteyi ziyaret edin:  
+➡️ https://petrapos.com
+
+---
+
+## 🔗 Proje Bağlantıları
+
+- 🌐 Website: https://petrapos.com
+- 🍎 App Store: https://apps.apple.com/tr/app/petrapos/id6744338657
+- 🤖 Google Play: https://play.google.com/store/apps/details?id=com.innodra.petrapos
+
+---
+
+## 🏷️ Anahtar Kelimeler
+Halı Takip Programı, Halı Yıkama Takip, Halı Takip Uygulaması,
+Halı Yıkama Otomasyonu, Halı Yıkama Yazılımı
+
+---
+
+© PetraPOS – Halı Takip Programı
