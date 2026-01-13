@@ -1,7 +1,7 @@
 # Halı Takip Programı – PetraPOS
 
 **PetraPOS Halı Takip Programı**, halı yıkama işletmeleri için geliştirilmiş
-modern bir [**halı yıkama takip uygulamasıdır**](https://petrapos.com).  
+modern bir [**halı yıkama takip uygulaması**]dır(https://petrapos.com).  
 Sipariş takibi, müşteri yönetimi, teslimat süreçleri ve finansal raporlamayı
 tek bir mobil panel üzerinden yönetmenizi sağlar.
 
